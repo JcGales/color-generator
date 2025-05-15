@@ -11,3 +11,8 @@ Modern UI - Sleek design with smooth animations and gradients
 Responsive - Works on all device sizes
 
 Easy to use - Simple, intuitive interface
+
+Technologies Used 💻
+React
+CSS3 (with modern features like gradients and transitions)
+HTML5
